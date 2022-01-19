@@ -16,4 +16,6 @@ alias ld="ls -ld */"   # List in long format, only directories
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
-alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
+# alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
+alias k=kubectl
+alias vscode="/Applications/Visual\ Studio\ Code.app/contents/Resources/app/bin/code"
