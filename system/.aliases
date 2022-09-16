@@ -19,3 +19,4 @@ alias ....="cd ../../.."
 # alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
 alias k=kubectl
 alias vscode="/Applications/Visual\ Studio\ Code.app/contents/Resources/app/bin/code"
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
