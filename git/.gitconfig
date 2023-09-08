@@ -1,7 +1,6 @@
 
 [user]
 	name = Arne Rossmann
-	email = arne.rossmann@capgemini.com
 [credential]
 	helper = cache
 [alias]
